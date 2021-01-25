@@ -1,0 +1,30 @@
+body {
+    background-color: #21759b;
+    padding: 10px;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+h1 {
+    color: #fff; padding: 10px;
+}
+h2 {
+    padding: 10px;
+}
+main {
+    background-color: #ffffff;
+}
+nav {
+    background-color: #ececec; width: 40%;  /*Ширина */
+}
+br {
+font-family: Arial, sans-serif; padding: 10px;
+}
+p {
+font-family: Arial, sans-serif; padding: 10px;
+}
+#ssilki {
+    font-size: 75%;
+}
